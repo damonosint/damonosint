@@ -2,7 +2,7 @@
 - 👀 I’m interested in animals
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on cybersecurity
-- 📫 How to reach me damonpetrovich2000@gmail.com
+- 📫 How to reach me damonvp2000@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: My cat name is Simon
 
